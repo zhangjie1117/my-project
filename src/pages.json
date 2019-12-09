@@ -1,0 +1,12 @@
+{
+	"pages": [{
+		"path": "pages/index/index",
+		"style": {
+			"enablePullDownRefresh": true
+		}
+	}],
+	"globalStyle": {
+		"navigationBarTitleText": "优购",
+		"navigationBarBackgroundColor": "#ea4451"
+	}
+}
